@@ -1,0 +1,3 @@
+1. Consider refactoring whole agent package (it was made in hurry)
+2. Consider changing Integers to ints
+3. Add eventBus
